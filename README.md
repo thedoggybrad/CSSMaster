@@ -19,11 +19,11 @@ https://cdn.statically.io/gh/thedoggybrad/bootstrapper/main/bootstrapper.css<br>
 ```<link rel="stylesheet" href="https://cdn.statically.io/gh/thedoggybrad/bootstrapper/main/bootstrapper.css">```
 
 ## Gitloaf (CDN)
-https://gitloaf.com/cdn/thedoggybrad/bootstrapper/main/bootstrapper.css
+https://gitloaf.com/cdn/thedoggybrad/bootstrapper/main/bootstrapper.css<br>
 ```<link rel="stylesheet" href="https://gitloaf.com/cdn/thedoggybrad/bootstrapper/main/bootstrapper.css">```
 
 ## Githack (CDN)
-https://rawcdn.githack.com/thedoggybrad/bootstrapper/1fcb4b9fff7ad78ab32707f3b38cf3daf3c4474d/bootstrapper.css
+https://rawcdn.githack.com/thedoggybrad/bootstrapper/1fcb4b9fff7ad78ab32707f3b38cf3daf3c4474d/bootstrapper.css<br>
 ```<link rel="stylesheet" href="https://rawcdn.githack.com/thedoggybrad/bootstrapper/1fcb4b9fff7ad78ab32707f3b38cf3daf3c4474d/bootstrapper.css">```
 
 ### Disclaimer
