@@ -17,3 +17,9 @@ https://cdn.jsdelivr.net/gh/thedoggybrad/bootstrapper@main/bootstrapper.css<br>
 ## Statically (CDN)
 https://cdn.statically.io/gh/thedoggybrad/bootstrapper/main/bootstrapper.css<br>
 ```<link rel="stylesheet" href="https://cdn.statically.io/gh/thedoggybrad/bootstrapper/main/bootstrapper.css">```
+
+## Gitloaf (CDN)
+https://gitloaf.com/cdn/thedoggybrad/bootstrapper/main/bootstrapper.css
+```<link rel="stylesheet" href="https://gitloaf.com/cdn/thedoggybrad/bootstrapper/main/bootstrapper.css">```
+
+## Githack (CDN)
