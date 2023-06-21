@@ -5,7 +5,8 @@ TheDoggyBrad (The entity), does not have a plan to edit, update or improve this 
 
 ## Github Pages
 https://thedoggybrad.github.io/bootstrapper/bootstrapper.css<br>
-
 ```<link rel="stylesheet" href="https://thedoggybrad.github.io/bootstrapper/bootstrapper.css">```
 
-##
+## jsDelivr (CDN)
+https://cdn.jsdelivr.net/gh/thedoggybrad/bootstrapper@main/bootstrapper.css<br>
+```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thedoggybrad/bootstrapper@main/bootstrapper.css">```
