@@ -23,3 +23,8 @@ https://gitloaf.com/cdn/thedoggybrad/bootstrapper/main/bootstrapper.css
 ```<link rel="stylesheet" href="https://gitloaf.com/cdn/thedoggybrad/bootstrapper/main/bootstrapper.css">```
 
 ## Githack (CDN)
+https://rawcdn.githack.com/thedoggybrad/bootstrapper/1fcb4b9fff7ad78ab32707f3b38cf3daf3c4474d/bootstrapper.css
+```<link rel="stylesheet" href="https://rawcdn.githack.com/thedoggybrad/bootstrapper/1fcb4b9fff7ad78ab32707f3b38cf3daf3c4474d/bootstrapper.css">```
+
+### Disclaimer
+This project is just an experiment, I am not recommending this to be used on production sites. It could be used for production but do a massive testing before doing that!
