@@ -13,3 +13,7 @@ https://thedoggybrad.github.io/bootstrapper/bootstrapper.css<br>
 ## jsDelivr (CDN)
 https://cdn.jsdelivr.net/gh/thedoggybrad/bootstrapper@main/bootstrapper.css<br>
 ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thedoggybrad/bootstrapper@main/bootstrapper.css">```
+
+## Statically (CDN)
+https://cdn.statically.io/gh/thedoggybrad/bootstrapper/main/bootstrapper.css<br>
+```<link rel="stylesheet" href="https://cdn.statically.io/gh/thedoggybrad/bootstrapper/main/bootstrapper.css">```
